@@ -1,0 +1,7 @@
+Dental Surgery Sample Report #5 
+DATE OF PROCEDURE: MM/DD/YYYY 
+PREOPERATIVE DIAGNOSIS: Dental caries. 
+POSTOPERATIVE DIAGNOSIS: Dental caries. 
+PROCEDURE PERFORMED: Full mouth rehabilitation. 
+SURGEON: John Doe, DMD 
+DESCRIPTION OF PROCEDURE: The patient was sedated with Versed and taken to the operating room. General anesthesia was induced with sevoflurane and a mask. IV was started in the left hand. Three x-rays were taken, two bite wings and one occlusal. A saline throat pack was placed along with 1 carpule of 2% Xylocaine, 1:100,000 epinephrine given. A mouth prop was used and the following restorations were performed. Tooth C received an OL composite with Venus shade A1. Tooth #M received an occlusal composite with Venus shade A1. Ionoseal liner was placed. Tooth #T received occlusal composite with Venus A1. Tooth #A and I received sealants with Clinpro. Tooth #O and P were extracted with Gelfoam placed. Tooth #D and tooth #G received composite strip crowns with TPH shade A1. Tooth #N received an Ionoseal liner and stainless steel crown cemented with Ketac cement, crown size E3. Tooth #K and T also received stainless steel crowns cemented with Ketac cement. Tooth #P received an Ionoseal liner, stainless steel crowns cemented with Ketac cement and crown size E3. Tooth #T crown size E3. The oral cavity was thoroughly irrigated, suctioned and inspected for debris. The moist saline throat pack was removed and the face cleansed with water. 

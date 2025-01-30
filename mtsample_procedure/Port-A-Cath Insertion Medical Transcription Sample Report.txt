@@ -1,0 +1,26 @@
+Port-A-Cath Insertion Medical Transcription Sample Report 
+DATE OF OPERATION: MM/DD/YYYY 
+PREOPERATIVE DIAGNOSES: 
+1. Left breast cancer. 
+2. Poor intravenous access. 
+POSTOPERATIVE DIAGNOSES: 
+1. Left breast cancer. 
+2. Poor intravenous access. 
+OPERATION PERFORMED: 
+Right subclavian Port-A-Cath placement with fluoroscopic guidance. 
+SURGEON: 
+John Doe, MD 
+ASSISTANT: 
+Jane Doe, MD 
+ESTIMATED BLOOD LOSS: 
+Less than 50 mL. 
+ANESTHESIA: 
+MAC plus 20 mL of 1% Xylocaine. 
+INDICATIONS FOR OPERATION: 
+The patient is an (XX)-year-old female who was recently diagnosed with a 1.5 cm infiltrating ductal carcinoma of the left breast. She has undergone a successful lumpectomy with axillary lymph node dissection. She was found to have stage I disease. Her tumor proved to be estrogen and progesterone negative. For this reason, she requires chemotherapy. She needs a Port-A-Cath for treatment. 
+DESCRIPTION OF OPERATION: 
+The patient was brought to the operating room, and placed on the OR table in the supine position. Following the administration of IV sedation, the patient’s neck and chest were prepped with Betadine and draped in the usual sterile manner. The patient had a rolled towel placed behind her shoulders, and her arms were tucked to her side prior to the administration of sedation. Xylocaine 1% without epinephrine was injected along the median third of the right clavicle. 
+The patient was placed in Trendelenburg position, and an 18-gauge needle was used to cannulate the right subclavian vein on the first attempt. A wire was passed into the central circulation and its position was confirmed under fluoroscopic guidance. A pocket was created inferomedial to the needle insertion site. The wire was brought through the pocket. The sheath and dilator were passed over the wire, and the wire and dilator were removed. 
+The catheter was placed through the sheath, and the sheath was removed. The tip of the catheter was positioned in the distal superior vena cava under fluoroscopic guidance. The catheter was cut to the appropriate length and attached to port device and locked into place. The port was cannulated with Huber needle and aspirated and flushed easily. The port was placed in the pocket and anchored to the chest wall with 3-0 Prolene suture. 
+The subcutaneous tissue was closed with interrupted 4-0 Vicryl suture, and the skin was closed with 4-0 Vicryl subcuticular stitch. The port was accessed with disposable Huber needle and again flushed and aspirated easily. Of note, for future access, it may be best to use a longer Huber needle for access. Benzoin, Steri-Strips, dry sterile gauze, and Tegaderm dressing were applied. All needle and sponge counts were correct. The patient was returned to recovery in good condition. 
+The postprocedure chest x-ray showed the tip of the catheter in the distal superior vena cava with no evidence of hemopneumothorax. 

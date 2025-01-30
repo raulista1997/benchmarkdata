@@ -1,0 +1,24 @@
+Left Heart Catheterization Transcription Sample Report 
+DATE OF OPERATION:  MM/DD/YYYY 
+PREOPERATIVE DIAGNOSIS: 
+Recent acute coronary syndrome, non-ST segment elevation myocardial infarction. Markedly positive stress echocardiogram in the distribution of the left anterior descending coronary artery. 
+POSTOPERATIVE DIAGNOSIS: 
+Recent acute coronary syndrome, non-ST segment elevation myocardial infarction. Markedly positive stress echocardiogram in the distribution of the left anterior descending coronary artery. 
+PROCEDURES PERFORMED: 
+1.  Left heart catheterization. 
+2.  Left ventriculogram. 
+3.  Coronary arteriogram. 
+4.  Double-vessel angioplasty and stent placement. 
+SURGEON:  John Doe, MD 
+COMPLICATIONS:  None. 
+INDICATIONS FOR OPERATION:  This is a (XX)-year-old patient who recently developed severe chest pain. This was his first episode ever. It was ischemic with associated diaphoresis. He was admitted to the hospital, where his EKG was unremarkable. The troponin was elevated. Prior to discharge, the patient had a low-level treadmill stress test, which was normal. Today, he underwent a symptom-limited treadmill stress test. Over 90% of predicted maximal heart rate was reached. The EKG showed 2-3 mm of downsloping ST segment depression in multiple leads, and the echocardiogram showed ischemia of the septum and apex, left anterior descending coronary artery. The patient was scheduled to undergo left heart catheterization and the above-mentioned procedures. 
+DESCRIPTION OF PROCEDURE:  Using standard percutaneous technique and Xylocaine anesthesia, a size #6 sheath was placed into the right radial artery. The patient was given intraarterial heparin, Xylocaine, verapamil, and nitroglycerin. The coronary arteries were studied selectively with Judkins-type coronary catheters. A left ventriculogram was done with a pigtail catheter. The patient was given an additional increment of heparin. The left coronary artery had been studied with a Judkins left guide catheter based on the echo findings denoting significant disease in the left coronary artery. A guidewire was placed into the circumflex coronary artery. 
+The mid vessel lesion was stented with a 3 x 12 Promus drug-eluting stent. The proximal lesion was stented with another 3 x 12 drug-eluting stent. The guidewire was then redirected into the left anterior descending. A 2.75 x 28 mm drug-eluting stent was placed in the proximal left anterior descending. The proximal margin was just beyond the ostium of the vessel and the distal margin was just beyond the ostium of the first diagonal. Sheath was removed, and the area of entry compressed to achieve hemostasis. 
+LEFT VENTRICULOGRAM:  The left ventricle is hyperdynamic with no wall motion abnormalities. 
+CORONARY ARTERIOGRAPHY: 
+Right Coronary:  The right coronary artery is a large caliber vessel. There are diffuse atherosclerotic irregularities present but no significant obstructive lesions. 
+Left Coronary:  The left main coronary is widely patent. The circumflex had a proximal stenosis of 60% to 70%. The vessel beyond that obstruction gives rise to one large mid marginal branch. In the proximal segment of this branch, there was a 70% stenosis prior to intervention. The proximal left anterior descending had a long lesion, which began just beyond the origin of the vessel and terminated right at the bifurcation with the first diagonal branch. 
+CORONARY INTERVENTION:  The two lesions in the circumflex and the lesion in the proximal left anterior descending were resolved with drug-eluting stents. All stents were fully expanded with no residual obstruction. The distal margin of the left anterior descending stent was placed into the ostium of the first diagonal, compromising it somewhat. Flow into the diagonal remained normal. 
+ASSESSMENT: 
+1.  Normal left ventricular function. 
+2.  Moderate obstructions of the proximal and mid circumflex and the proximal left anterior descending coronary artery were resolved with drug-eluting stents. 

@@ -1,0 +1,7 @@
+Dental Surgery Sample Report #4 
+DATE OF PROCEDURE: MM/DD/YYYY 
+PREOPERATIVE DIAGNOSIS: Severe dental caries and infection. 
+POSTOPERATIVE DIAGNOSIS: Severe dental caries and infection. 
+PROCEDURES PERFORMED: Dental restorations, extractions, impressions. 
+SURGEON: John Doe, DMD 
+DESCRIPTION OF PROCEDURE: The patient was taken to the OR, induced with nitrous oxide, oxygen, sevoflurane. An IV was started in the left hand. The patient was intubated through the right naris. The patient was maintained on nitrous oxide, oxygen, sevoflurane. Sterile drapes were placed in the usual manner. The patient’s oropharynx and mouth were irrigated, thoroughly suctioned and a thin, moist throat pack was placed. Tooth number 14 was restored with an OL composite restoration. Tooth numbers B and S were restored with formocresol pulpotomies and stainless steel crowns cemented with Ketac. Tooth number J was restored with an MOL composite restoration. Tooth number L was restored with an OL composite restoration. Tooth number A was nonrestorable; it was extracted. Gelfoam was placed in the extraction sockets. One 4-0 gut suture was placed. Tooth numbers D and G were also extracted without difficulty. A single tooth gingivectomy was performed to aid the eruption of tooth 3. Tooth number B was fitted with a stainless steel band and impression was taken for a reverse band. Hemorrhage was easily controlled. Estimated blood loss was minimal. Throat pack was removed. The patient was extubated in the operating room and taken to the recovery room. 
